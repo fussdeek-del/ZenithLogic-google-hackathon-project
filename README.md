@@ -25,7 +25,7 @@ View your app in AI Studio: https://ai.studio/apps/temp/1
 **Zenith Bug Post-Mortem** is an AI-powered developer reasoning tool built with **Gemini 3** on **Google AI Studio**.  
 It performs structured post-mortem analysis of software bugs by reconstructing developer intent, identifying logic mismatches, uncovering hidden cognitive or assumption errors, and proposing the smallest possible fix that aligns implementation with intent.
 
-This project focuses on **failure reasoning**, not traditional code generation or debugging. It is designed to help developers understand *why* bugs occur and how to fix them efficiently.
+This project focuses on **failure reasoning**, not traditional code generation or debugging. It is designed to help developers understand *why* bugs occur and how to fix them efficiently...
 
 ---
 
