@@ -175,6 +175,3 @@ No external APIs or paid infrastructure are required.
 
 Created as part of a Google AI Hackathon submission.
 
-
-## Project Structure
-
