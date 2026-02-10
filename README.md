@@ -173,5 +173,7 @@ No external APIs or paid infrastructure are required.
 - Google AI Studio  
 - Gemini 3  flash preview 
 
-Created as part of a Google AI Hackathon submission...
+Created as part of a Google AI Hackathon submission.
+
+Read me ends here...
 
